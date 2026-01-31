@@ -1,10 +1,15 @@
 # Full-Stack-Real-Time-Chat-Application
+![piccc](https://github.com/user-attachments/assets/8494d55f-6ad6-4c10-89c6-0bd674f1aec9)
+
+
 <center>
   <h1>📱 Full-Stack Real-Time Chat Application</h1>
   <p><strong>A high-performance real-time messaging platform built with React, Node.js, and WebRTC. This project features instant messaging, multimedia sharing, and high-quality video/audio calling.</strong></p>
 </center>
 
 <br>
+
+
 
 ## 🚀 Key Technical Features
 
