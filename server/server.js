@@ -15,7 +15,7 @@ const io = new Server(server, {
     cors: { origin: "*", methods: ["GET", "POST"] }
 });
 
-const mongoURI = "mongodb+srv://blackde605_db_user:wnhdvPy9VEzaGU81@cluster0chat.g5gyvvv.mongodb.net/whatsapp_clone";
+const mongoURI = "mongo URL";
 
 mongoose.connect(mongoURI)
     .then(() => console.log("✅ Connected to MongoDB Atlas"))
